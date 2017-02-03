@@ -1,5 +1,4 @@
 ## RecyclerView3
-* id.sch.smktelkom_mlg.learn.recyclerview3
 
 ## Identitas
 * Nama  : Arik Nur Khoiriyah
@@ -10,6 +9,6 @@
 
 ## Screenshot Aplikasi
 <p align="center">
-  <img src="http://i68.tinypic.com/sevwxh.jpg" width="350"/>
-  <img src="http://i63.tinypic.com/eiuixk.jpg" width="350"/>
+  <img src="http://i68.tinypic.com/sevwxh.jpg" width="350"/> <br>
+  <img src="http://i63.tinypic.com/eiuixk.jpg" width="350"/><br>
 </p>
