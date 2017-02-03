@@ -8,7 +8,7 @@
 * Sekolah : SMK Telkom Malang
 
 ## Screenshot Aplikasi
-<p align="center">
-  <img src="http://i68.tinypic.com/sevwxh.jpg" width="350"/> <br>
-  <img src="http://i63.tinypic.com/eiuixk.jpg" width="350"/><br>
-</p>
+![Images](https://github.com/ariknk/RecyclerView3/blob/master/WhatsApp%20Image%202017-02-03%20at%2014.39.45(1).jpeg)<br>
+![Images](https://github.com/ariknk/RecyclerView3/blob/master/WhatsApp%20Image%202017-02-03%20at%2014.39.45(2).jpeg)<br>
+![Images](https://github.com/ariknk/RecyclerView3/blob/master/WhatsApp%20Image%202017-02-03%20at%2014.39.45.jpeg)<br>
+![Images](https://github.com/ariknk/RecyclerView3/blob/master/WhatsApp%20Image%202017-02-03%20at%2014.41.03.jpeg)<br>
